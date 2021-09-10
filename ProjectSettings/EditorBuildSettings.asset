@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/leveller/Anamenu.unity
+    guid: 1c60ce01c41a6504b98806d224456a80
+  - enabled: 1
+    path: Assets/leveller/1.unity
+    guid: 99ef103b56cb77242b0aff1b1fa8fe36
+  - enabled: 1
+    path: Assets/leveller/2.unity
+    guid: d30c8d05a5179c3449c36eb2c9808db5
+  - enabled: 1
+    path: Assets/leveller/3.unity
+    guid: 5079f70239ee4e44db81c6a9ffb378b0
+  - enabled: 1
+    path: Assets/leveller/4.unity
+    guid: 40cb6f2f187a7354a808d5ecc80fa757
+  - enabled: 1
+    path: Assets/leveller/5.unity
+    guid: d2055e304f3a8e54d83b77af1bf2375c
+  - enabled: 1
+    path: Assets/leveller/6.unity
+    guid: aab55371c192d284a867c28e4b0ec0c5
+  - enabled: 1
+    path: Assets/leveller/7.unity
+    guid: 7d1b867d810fba3469820168236a8d6b
+  - enabled: 1
+    path: Assets/leveller/8.unity
+    guid: 617e54ae1c521a6438bbaa482f434a00
+  - enabled: 1
+    path: Assets/leveller/9.unity
+    guid: 50ae333cc3a6c6b44a7bcb4577e38284
+  - enabled: 1
+    path: Assets/leveller/10.unity
+    guid: 00221c98aba64c64e8ce3daff111cec1
+  m_configObjects: {}
